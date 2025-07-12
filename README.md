@@ -1,6 +1,6 @@
 # Estos son unos ejemplos para aprender lo básico para programar un módulo IRX para el IOP del PlayStation2
 
-## La verdad yo cree estos ejemplos porque me di cuenta que, en ninguna parte del ps2sdk hay ejemplos para programar en el IOP, incluso busqué en otros sitios y no encontré :(, así que cree los ejemplos para los que quieran aprender a programar su módulos para el IOP :)
+## La verdad yo cree estos ejemplos porque me di cuenta que, en ninguna parte del ps2sdk hay ejemplos para programar en el IOP, incluso busqué en otros sitios y no encontré :(, así que cree los ejemplos para los que quieran aprender a programar sus módulos para el IOP :)
 
 ## Espero que estos ejemplos sean de utilidad :)
 
