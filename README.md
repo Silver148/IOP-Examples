@@ -6,4 +6,4 @@
 
 ## Posiblemente agrege mas ejemplos :D
 
-## (ESTOS EJEMPLOS FUERON COMPILADOR EN LA ÚLTIMA VERSIÓN DEL [TOOLCHAIN DE PS2](https://github.com/ps2dev/ps2toolchain) Y DE [PS2SDK](https://github.com/ps2dev/ps2sdk), ASÍ QUE ES MEJOR USAR LAS ÚLTIMAS VERSIONES DE ESTOS DOS PARA EVITAR ERRORES XD)
+## (ESTOS EJEMPLOS FUERON COMPILADOS EN LA ÚLTIMA VERSIÓN DEL [TOOLCHAIN DE PS2](https://github.com/ps2dev/ps2toolchain) Y DE [PS2SDK](https://github.com/ps2dev/ps2sdk), ASÍ QUE ES MEJOR USAR LAS ÚLTIMAS VERSIONES DE ESTOS DOS PARA EVITAR ERRORES XD)
